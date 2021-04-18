@@ -54,5 +54,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'solidus'
 gem 'solidus_auth_devise'
+gem 'cowsay'
 
 #farukgurlesin@gmail.com admin123
